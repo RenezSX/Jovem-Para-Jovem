@@ -13,7 +13,7 @@ Uma página informativa e responsiva que reúne cursos gratuitos recomendados po
 
 Abra o arquivo `index.html` no seu navegador para ver o site funcionando localmente.
 
-![Preview do Site](/assets/image.png)
+![Preview do Site](/assets/demonstra.png)
 
 > Observação: se não houver o arquivo de imagem acima, abra `index.html` diretamente no navegador.
 
